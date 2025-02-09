@@ -9,6 +9,6 @@
 .app {
     min-height: 100vh;
     display: grid;
-    background: #e2d4ff;
+    background: rgba(215, 212, 212, 0.493);
     font-family: "Poppins", serif;
 }
